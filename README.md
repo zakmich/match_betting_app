@@ -1,6 +1,6 @@
 ## A simple application to betting football matches (work in progress)
 
-### In this project, I'm planing to develop a simple application to predict the results of real-world football matches.
+In this project, I'm planing to develop a simple application to predict the results of real-world football matches.
 
 ### This application will utilize an SQL database to provide the following functionalities:
 
