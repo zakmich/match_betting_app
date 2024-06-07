@@ -6,3 +6,5 @@ This application will utilize an SQL database to provide the following functiona
 
 - For administrators: Effortlessly add upcoming matches for users to predict.
 - For users: Register and submit their predictions through a convenient login interface.
+
+Current version of an app uses only basic data types available in Python.
